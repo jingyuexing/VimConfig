@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "start config"
+
+mv vimrc.vim ~/.vimrc
+
+echo "finish"
