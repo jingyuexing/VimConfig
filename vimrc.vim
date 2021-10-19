@@ -30,6 +30,7 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 let g:asyncomplete_auto_completeopt = 0
+let g:lsp_settings_servers_dir='~/.vim/plugin/LangServer'
 set completeopt=menuone,noinsert,noselect,preview
 
 let g:cmake_build_dir_location='./build'
